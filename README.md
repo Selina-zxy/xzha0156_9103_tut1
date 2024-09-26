@@ -50,4 +50,3 @@ Orbit control allow users to adjust the camera direction in 3D rendering using m
 [Link Text](https://thecodingtrain.com/challenges/24-perlin-noise-flow-field)
 ## Part 3
 ![An image of the Citizen Kane](readmeImages\1afda3046639c6fcc6b7c82504d0154.png)
-![An image of the Citizen Kane](readmeImages\e62866552e8bd25b7a5f608bdb06a14.png)
